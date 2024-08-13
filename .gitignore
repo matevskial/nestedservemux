@@ -1,0 +1,16 @@
+### IntelliJ IDEA ###
+.idea/*
+*.iws
+*.iml
+*.ipr
+out/
+**/src/main/generated/
+!**/src/main/**/out/
+!**/src/test/**/out/
+!/.idea/codeStyles
+
+### VS Code ###
+.vscode/
+
+### golang and build-specific ###
+out
